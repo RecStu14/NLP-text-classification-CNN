@@ -9,3 +9,5 @@ This CNN Network can be further improved to increase the accuracy.
 Tokenisation -> Texts to Sequences -> Padding -> CNN 
 
 No lemmatization or stemming done.
+
+Reference - https://www.youtube.com/watch?v=MsL79ZIqWpg
